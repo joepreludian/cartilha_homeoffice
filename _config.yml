@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Site com guia para ajuda para oferecer às empresas uma cartilha para
   ser possibilitado o teletrabalho (Homeoffice), por meio do oferecimento
   da indicação de serviços voltados a possibilitar o Homeoffice
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/plataforma_apoio_ao_trabalho_remoto" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  cartilha_homeoffice
