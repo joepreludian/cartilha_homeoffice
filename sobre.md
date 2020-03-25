@@ -8,4 +8,3 @@ permalink: /sobre/
 Descricao sobre o projeto
 
 
-[jekyll-organization]: https://github.com/jekyll

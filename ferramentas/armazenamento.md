@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Ferramentas
-permalink: /ferramentas/
+layout: default
+title: Armazenamento
+permalink: /ferramentas/armazenamento
+parent: Ferramentas
 ---
 
-# Ferramental
+# Ferramental - Armazenamento
 
 Falar sobre as ferramentas
 
