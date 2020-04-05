@@ -30,4 +30,3 @@ Fico muito feliz em saber disso. Caso voce tenha alguma experiencia que queira c
 
 Voce pode ser de qualquer outra profissão. Se achar que esse projeto pode agregar valor em alguma área que não o T.I., como dicas de administração de empresas, texto relativo a outras áreas, como saúde mental, bem estar e ou links que voce acredite que irá impactar na maior quantidade de pessoas, por favor, deixe-nos saber! Voce tanto poderá atingir a [tela de contato]({% link contato.md%}) e deixar uma mensagem lá quanto acessar a página de [Issues do Github](https://github.com/joepreludian/plataforma_apoio_ao_trabalho_remoto/issues).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd5VxAGLzu9EWSaBxTKml-EsCFS_bvpjiz-m1ZR_txy6q_TYA/viewform?embedded=true" width="640" height="663" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
