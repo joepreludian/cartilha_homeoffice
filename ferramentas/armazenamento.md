@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page_with_table
 title: Armazenamento
 permalink: /ferramentas/armazenamento
 parent: Ferramentas
@@ -9,7 +9,7 @@ parent: Ferramentas
 
 Falar sobre as ferramentas
 
-| Ferramenta | Funcionalidade | URL |
-| - | - | - |
-| Ferramenta 1 | Funcionalidade 1 | URL 1 |
-| Ferramenta 2 | Funcionalidade 2 | URL 2 |
+| Ferramenta | Preço | Obs | URL |
+| - | - | - | - |
+| Dropbox | URL 1 |
+| Google Drive | Funcionalidade 2 | URL 2 |
